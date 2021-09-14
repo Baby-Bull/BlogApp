@@ -17,7 +17,7 @@ export default function Sidebar(props) {
         <div className="sidebar">
             <div className="sidebarItem">
                 <span className="sidebarTitle">ABOUT ME</span>
-                <img src="https://themegoods-cdn-pzbycso8wng.stackpathdns.com/grandblog/demo/wp-content/uploads/2015/11/aboutme.jpg" />
+                <img src="https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmlsZXxlbnwwfDB8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" />
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure vel odio dignissimos, quaerat officiis aspernatur minima quae quo dolore id ullam, saepe iste expedita et quisquam. Molestiae maiores ea architecto!</p>
             </div>
             <div className="sidebarItem">
